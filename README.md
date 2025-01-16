@@ -29,6 +29,7 @@ Hỗ trợ quản lý qua ứng dụng di động.
 Thông báo sự cố hoặc thiết bị hỏng.
 
 3. Yêu cầu hệ thống
+
 3.1 Yêu cầu chức năng
 Nhận diện và xử lý giọng nói tiếng Việt.
 Có khả năng kết nối nhiều thiết bị khác nhau qua Wi-Fi hoặc Zigbee.
@@ -39,6 +40,7 @@ Bảo mật dữ liệu cá nhân.
 Hệ thống độ tin cậy cao, không gây gián đoạn khi hoạt động.
 
 4. Kiến trúc hệ thống
+
 4.1 Sơ đồ tổng quan
 Hệ thống bao gồm:
 Google Assistant (điều khiển giọng nói).
@@ -53,6 +55,7 @@ Gateway trung tâm: Quản lý giao tiếp giữa các thiết bị và Google A
 Các thiết bị IoT: Bóng đèn thông minh, cảm biến chuyển động, rèm cửa tự động, ...
 
 5. Kế hoạch thực hiện
+
 5.1 Mốc tiêu cụ thể
 Hoàn thành thiết kế hệ thống: 1 tháng.
 Phát triển và tích hợp các thiết bị: 2 tháng.
