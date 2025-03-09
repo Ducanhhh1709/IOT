@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="btn_speak">Speak</string>
+    <string name="tv_result">Result will appear here</string>
+</resources>
